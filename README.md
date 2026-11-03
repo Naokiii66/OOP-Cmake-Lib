@@ -11,9 +11,3 @@
 - `lib/src` - реалізація бібліотеки
 - `src/main.cpp` - демонстрація
 
-Збірка:
-```
-cmake -S . -B build
-cmake --build build
-./build/atm_app
-```
